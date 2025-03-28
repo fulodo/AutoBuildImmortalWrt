@@ -51,6 +51,7 @@ PACKAGES="$PACKAGES luci-i18n-vsftpd-zh-cn"
 PACKAGES="$PACKAGES luci-i18n-statistics-zh-cn"
 PACKAGES="$PACKAGES luci-i18n-arpbind-zh-cn"
 PACKAGES="$PACKAGES luci-i18n-minidlna-zh-cn"
+PACKAGES="$PACKAGES luci-i18n-wechatpush-zh-cn"
 # 增加几个必备组件 方便用户安装iStore
 PACKAGES="$PACKAGES fdisk"
 PACKAGES="$PACKAGES script-utils"
